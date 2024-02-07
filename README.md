@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Allavezz
 - 👀 I’m interested in Web Development, Adventure Motorcycles, Nature and more...
 - 🌱 I’m currently learning Full Stack Web Development
-- 📫 How to reach me - ricardogeraldesalves@gmail.com
+
 
 
 <!---
