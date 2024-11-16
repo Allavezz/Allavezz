@@ -2,6 +2,7 @@
 
 Junior Full-Stack Web Developer
 <br/>
+<br/>
 Took a Full-Stack Web Development course at [FLAG](https://flag.pt/curso/full-stack-web-developer/) <br/>
 <br/>
 <br/>
