@@ -2,10 +2,8 @@
 
 Junior Full-Stack Web Developer
 <br/>
-
 Took a Full-Stack Web Development course at [FLAG](https://flag.pt/curso/full-stack-web-developer/) <br/>
 <br/>
-
 An individual blending a love for nature, agriculture, camping, fishing, and motorcycles, with a vision for a sustainable future.
 <br/>
 Taking my first steps into web development projects, aiming for a future that fosters balance between nature and tech.<br/>
