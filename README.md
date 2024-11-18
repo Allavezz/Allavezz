@@ -6,9 +6,9 @@ Junior Full-Stack Web Developer
 Took a Full-Stack Web Development course at [FLAG](https://flag.pt/curso/full-stack-web-developer/) <br/>
 <br/>
 <br/>
-An individual blending a love for nature, agriculture, camping, fishing, and motorcycles, with a vision for a sustainable future. I’m driven by the idea of harmonizing nature and technology.
+An individual blending a love for nature, agriculture, camping, fishing, and motorcycles, with a vision for a sustainable future.
 <br/>
-Taking my first steps into web development projects, I aim to build a future that fosters balance between nature and tech.<br/>
+Taking my first steps into web development projects, aiming for a future that fosters balance between nature and tech.<br/>
 <br/>
 <br/>
 ### Languages and Tools
